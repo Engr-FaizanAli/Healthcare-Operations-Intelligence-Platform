@@ -21,6 +21,47 @@ Healthcare operations often suffer from fragmented tools, repetitive manual entr
 - Revenue, expense, payout, and transaction tracking
 - Executive and department-level dashboards for operational insights
 
+## Screenshots
+
+Add screenshots to `assets/screenshots/` using the exact filenames below. Once you place the images there, this section will render automatically on GitHub.
+
+### Analytics Dashboard
+![Analytics Dashboard](assets/screenshots/analytics-dashboard.png)
+
+Shows executive and department-level visibility for revenue, profit, operations, and healthcare performance tracking.
+
+### OCR-Assisted Lab Result Entry
+![OCR Lab Autofill](assets/screenshots/ocr-lab-autofill.png)
+
+Shows the OCR workflow for scanned CBC / Complete Blood Picture slips and automatic filling of measured-result fields.
+
+### Management Dashboard
+![Management Dashboard](assets/screenshots/management-dashboard.png)
+
+Shows the main operational control view for hospital, lab, pharmacy, and clinic management.
+
+### Pharmacy Operations
+![Pharmacy Operations](assets/screenshots/pharmacy-operations.png)
+
+Shows medicine inventory, purchasing, sales, and operational pharmacy workflows.
+
+### Patient Workflow
+![Patient Workflow](assets/screenshots/patient-workflow.png)
+
+Shows patient registration, checkup flow, or clinic-side workflow handling.
+
+## Screenshot Notes
+
+Use demo or anonymized data only.
+
+Recommended screenshot filenames:
+
+- `assets/screenshots/analytics-dashboard.png`
+- `assets/screenshots/ocr-lab-autofill.png`
+- `assets/screenshots/management-dashboard.png`
+- `assets/screenshots/pharmacy-operations.png`
+- `assets/screenshots/patient-workflow.png`
+
 ## OCR-Assisted Lab Automation
 
 One of the strongest parts of this platform is its OCR-assisted lab workflow.
