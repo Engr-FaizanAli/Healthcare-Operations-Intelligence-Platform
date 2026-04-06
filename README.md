@@ -23,8 +23,6 @@ Healthcare operations often suffer from fragmented tools, repetitive manual entr
 
 ## Screenshots
 
-Add screenshots to `assets/screenshots/` using the exact filenames below. Once you place the images there, this section will render automatically on GitHub.
-
 ### Analytics Dashboard
 ![Analytics Dashboard](assets/screenshots/analytics-dashboard.png)
 
@@ -49,18 +47,6 @@ Shows medicine inventory, purchasing, sales, and operational pharmacy workflows.
 ![Patient Workflow](assets/screenshots/patient-workflow.png)
 
 Shows patient registration, checkup flow, or clinic-side workflow handling.
-
-## Screenshot Notes
-
-Use demo or anonymized data only.
-
-Recommended screenshot filenames:
-
-- `assets/screenshots/analytics-dashboard.png`
-- `assets/screenshots/ocr-lab-autofill.png`
-- `assets/screenshots/management-dashboard.png`
-- `assets/screenshots/pharmacy-operations.png`
-- `assets/screenshots/patient-workflow.png`
 
 ## OCR-Assisted Lab Automation
 
